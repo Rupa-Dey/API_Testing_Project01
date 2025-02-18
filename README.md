@@ -237,7 +237,10 @@ newman run API_CRUD_Testing.postman_collection.json -e API_CRUD_Testing.postman_
 newman run API_CRUD_Testing.postman_collection.json -e API_CRUD_Testing.postman_environment.json -r cli,htmlextra
 ```
 ## Newman Report Summary:
-![Image](https://github.com/Rupa-Dey/API_Testing_Project01.git/assets/72e80055-efba-457d-b1ca-da2329a15a74)
-![Image](https://github.com/Rupa-Dey/API_Testing_Project01.git/assets/3d2f524a-ff92-48df-83b4-f9c99f642883)
-![Image](https://github.com/Rupa-Dey/API_Testing_Project01.git/assets/5f89e4c7-ccfa-4ffd-8120-11a39e430a25)
-![Image](https://github.com/Rupa-Dey/API_Testing_Project01.git/assets/effc564e-1dfb-44c6-be7e-0da7bca8faf0)
+![Image](https://github.com/user-attachments/assets/3448754b-7543-47bc-922a-8a3df729ff35)
+
+![Image](https://github.com/user-attachments/assets/e1ca4b1c-77ea-4a77-abe9-ca2e19eed91a)
+
+![Image](https://github.com/user-attachments/assets/4a56c68e-6341-4f42-b1da-14edcf312bad)
+
+![Image](https://github.com/user-attachments/assets/78042cef-e30b-4694-9ab3-7b15ae7cd8ab)
